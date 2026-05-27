@@ -1,4 +1,4 @@
 {
   "version": "1.1",
-  "firmware": "https://raw.githubusercontent.com/DhanvithVentures/Esp32_auto_update/main/R45.ino.bin"
+  "firmware": "https://raw.githubusercontent.com/services-dvllp/xbee_base_autoupdate/main/esp32-xbee.bin"
 }
